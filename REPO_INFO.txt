@@ -1,0 +1,9 @@
+Repository name: fotrix-hydrogen-monitor
+
+Description:
+Flutter operator dashboard for FOTRIX, a solar-powered electrocoagulation-photocatalysis reactor for hydrogen production and microplastic degradation (PKM student project, Universitas Indonesia) — Firestore-backed device control, a simulated sensor readout, and a mission/safety screen.
+
+Suggested topics:
+flutter, firebase, firestore, iot, sensor-monitoring, dart, android, pkm
+
+Suggested visibility: Public, but only after: (1) deciding on the team photos noted in README.md, (2) rotating/regenerating the Firebase API key if it was ever exposed, (3) optionally renaming the Android package off com.example.untitled2
